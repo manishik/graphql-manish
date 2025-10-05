@@ -1,4 +1,4 @@
-package learn.manish.graphql.exceptions;
+package manish.graphql.exceptions;
 
 import graphql.GraphQLError;
 import org.springframework.graphql.data.method.annotation.GraphQlExceptionHandler;

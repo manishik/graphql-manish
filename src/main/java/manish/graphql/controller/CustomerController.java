@@ -1,9 +1,9 @@
-package learn.manish.graphql.controller;
+package manish.graphql.controller;
 
-import learn.manish.graphql.dto.CustomerAddressDTO;
-import learn.manish.graphql.dto.CustomerDTO;
-import learn.manish.graphql.service.CustomerAddressService;
-import learn.manish.graphql.service.CustomerService;
+import manish.graphql.dto.CustomerAddressDTO;
+import manish.graphql.dto.CustomerDTO;
+import manish.graphql.service.CustomerAddressService;
+import manish.graphql.service.CustomerService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.graphql.data.method.annotation.Argument;

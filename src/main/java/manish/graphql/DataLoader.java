@@ -1,7 +1,7 @@
-package learn.manish.graphql;
+package manish.graphql;
 
-import learn.manish.graphql.model.Book;
-import learn.manish.graphql.repository.BookRepository;
+import manish.graphql.model.Book;
+import manish.graphql.repository.BookRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

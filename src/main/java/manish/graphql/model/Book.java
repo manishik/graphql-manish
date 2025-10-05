@@ -1,4 +1,4 @@
-package learn.manish.graphql.model;
+package manish.graphql.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

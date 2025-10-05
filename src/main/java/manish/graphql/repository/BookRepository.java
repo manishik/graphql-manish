@@ -1,6 +1,6 @@
-package learn.manish.graphql.repository;
+package manish.graphql.repository;
 
-import learn.manish.graphql.model.Book;
+import manish.graphql.model.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.repository.query.QueryByExampleExecutor;
 import org.springframework.graphql.data.GraphQlRepository;

@@ -1,7 +1,7 @@
-package learn.manish.graphql;
+package manish.graphql;
 
-import learn.manish.graphql.model.CustomerAddressDAO;
-import learn.manish.graphql.repository.CustomerAddressRepository;
+import manish.graphql.model.CustomerAddressDAO;
+import manish.graphql.repository.CustomerAddressRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

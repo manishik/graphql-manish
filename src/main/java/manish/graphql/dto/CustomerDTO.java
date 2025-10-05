@@ -1,4 +1,4 @@
-package learn.manish.graphql.dto;
+package manish.graphql.dto;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package learn.manish.graphql.config;
+package manish.graphql.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

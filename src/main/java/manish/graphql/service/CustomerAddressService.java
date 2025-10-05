@@ -1,11 +1,11 @@
-package learn.manish.graphql.service;
+package manish.graphql.service;
 
-import learn.manish.graphql.dto.CustomerAddressDTO;
-import learn.manish.graphql.exceptions.CustomerNotFoundException;
-import learn.manish.graphql.model.CustomerAddressDAO;
-import learn.manish.graphql.model.CustomerDAO;
-import learn.manish.graphql.repository.CustomerAddressRepository;
-import learn.manish.graphql.repository.CustomerRepository;
+import manish.graphql.dto.CustomerAddressDTO;
+import manish.graphql.exceptions.CustomerNotFoundException;
+import manish.graphql.model.CustomerAddressDAO;
+import manish.graphql.model.CustomerDAO;
+import manish.graphql.repository.CustomerAddressRepository;
+import manish.graphql.repository.CustomerRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
